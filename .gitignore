@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
+
+# Virtual environment
+venv/
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# SSH key
+server.key
+server.key.pub
+
+# Flask cache
+instance/
+.webassets-cache
+
+# System files
+.DS_Store
+Thumbs.db
