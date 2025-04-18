@@ -19,6 +19,9 @@ This project implements both SSH and HTTP (WordPress-style) honeypots for captur
 
 
 git clone https://github.com/vishal-rathod-1/honeypot-trap.git
+
 cd honeypot-trap
+
 chmod +x install.sh
+
 ./install.sh
